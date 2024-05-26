@@ -1,0 +1,9 @@
+# Replit
+.replit
+replit.nix
+
+# Node JS
+node_modules/
+
+# Builder cache
+.build/

@@ -1,0 +1,26 @@
+[
+  {
+    "image": "berries",
+    "name": "Berry tart",
+    "description": "Berry tarts are enjoyed by grizzly bears.How do we know that?",
+    "price": "3.99"
+  },
+  {
+    "image": "pnp",
+    "name": "P and P",
+    "description": "Pineapple and plum. Sounds pine-appealing!",
+    "price": "3.99"
+  },
+  {
+    "image": "pineapplemon",
+    "name": "Pineapple and lemon tart",
+    "description": "Tangy sweetness, And then mint just couldn't taste any nicer than it does.",
+    "price": "3.99"
+  },
+  {
+    "image": "orancherry",
+    "name": "Orange & cherry",
+    "description": "Smell of orange ... taste of both. The best taste ever.",
+    "price": "3.99"
+  }
+]

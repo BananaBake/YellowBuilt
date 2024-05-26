@@ -1,0 +1,77 @@
+html {
+  height: 100%;
+  width: 100vw;
+  background-color: #ffda1f;
+  background-image: url("images/background.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.audiowide,
+.logo {
+  font-family: 'Audiowide', sans-serif;
+}
+
+.logo {
+  background-color: #f5bb4e;
+  border-radius: 5em;
+  font-size: 3em;
+  margin: 0.5em;
+}
+
+.background {
+  background-color: #ffd940;
+  border-radius: 2.5%;
+  margin: 1em;
+}
+
+.product-image {
+  width: calc(100% - 2em);
+  padding: 1em;
+}
+
+.add-to-cart {
+  background-color: #49a1c9;
+  border-radius: 5em;
+  font-size: 1.5em;
+  margin: 0.5em;
+}
+
+.padded {
+  padding: 1em;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+p {
+  margin: 0.5em;
+}
+
+.product {
+  width: calc(33% - 2em);
+  display: inline-table;
+}
+
+.product a {
+  text-decoration: none;
+  color: inherit;
+}
+  
+@media (max-aspect-ratio: 1/1) {
+  .product {
+        width: calc(100% - 2em);
+    }
+}
+
+.quote {
+  font-size: 1.5em;
+  font-style: italic;
+}

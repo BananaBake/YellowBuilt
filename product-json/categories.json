@@ -1,0 +1,30 @@
+[
+  {
+    "image": "fruit",
+    "name": "Fruit",
+    "description": "Fruuuits!",
+    "url": "fruit",
+    "slogan": "Ripe ‘n fresh ought to be the best"
+  },
+  {
+    "image": "fruit2",
+    "name": "Fruit x 2",
+    "description": "Two fruits are always nicer than one.",
+    "url": "fruit2",
+    "slogan": "If one would be put against two, two would win"
+  },
+  {
+    "image": "veg",
+    "name": "Vegetables",
+    "description": "Vegetables somehow go in tarts.",
+    "url": "veg",
+    "slogan": "Vegetables go anywhere, even in a tart"
+  },  
+  {
+    "image": "pets",
+    "name": "Pets",
+    "description": "Weird but true! Pet tarts?",
+    "url": "pets",
+    "slogan": "From yaps to cheeps, every pet owner has their duty"
+  } 
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "image": "chick",
+    "name": "Chick tart",
+    "description": "One of the cheepest tarts ever!",
+    "price": "0.30"
+  },
+  {
+    "image": "doggy",
+    "name": "Doggy tart",
+    "description": "Heads up little doggies!",
+    "price": "5.99"
+  },
+  {
+    "image": "cat",
+    "name": "Cat tart",
+    "description": "Cute ones also have cravings",
+    "price": "4.99"
+  }
+]

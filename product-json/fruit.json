@@ -1,0 +1,38 @@
+[
+  {
+    "image": "cherry",
+    "name": "Cherry tart",
+    "description": "YUM,YUM cherries are yummy,especially in a tart",
+    "price": "3.99"
+  },
+  {
+    "image": "apple",
+    "name": "Apple tart",
+    "description": "Crispy,flakey crust,filled with apple and cinnamon.How delightful?",
+    "price": "3.99"
+  },
+  {
+    "image": "blueberry",
+    "name": "Blueberry tart",
+    "description": "Feeling blue? Have one of these to cheer you up!",
+    "price": "3.99"
+  },
+  {
+    "image": "citrus",
+    "name": "Citrus tart",
+    "description": "Sweet,creamy,and sour.Citrus tart is a great choice for a sweet treat",
+    "price": "3.99"
+  },
+  {
+    "name": "Plum tart",
+    "description": "Yum yum, Its plum",
+    "image": "plum",
+    "price": "3.99"
+  },
+  {
+    "image": "date",
+    "name": "Date tart",
+    "description": "Mmm...what does this taste like?",
+    "price": "3.99"
+  }
+]
