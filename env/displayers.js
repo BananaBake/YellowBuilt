@@ -37,8 +37,8 @@ function displayCategory(image, name, description, url) {
     console.error(new Error("Missing category parameters"));
   let catHTML = `
   <center class="background product">
-  <a href="/categories/${url}.html">
-    <img class="product-image" src="images/categories/${image}.jpeg">
+  <a href="./categories/${url}">
+    <img class="product-image" src="./images/categories/${image}.jpeg">
     <div class="product-text">
       <p class="bold">${name}</p>
       <p>${description}</p>
